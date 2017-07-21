@@ -38,20 +38,7 @@
 		</repository>
 	</repositories>
 
-	<pluginRepositories>
-		<repository>
-			<id>nexus-aliyun</id>
-			<name>Nexus aliyun</name>
-			<url>http://maven.aliyun.com/nexus/content/groups/public</url>
-			<snapshots>
-				<enabled>false</enabled>
-			</snapshots>
-			<releases>
-				<enabled>true</enabled>
-			</releases>
-		</repository>
 
-	</pluginRepositories>
 
 
 </project>
