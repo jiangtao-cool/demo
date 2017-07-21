@@ -5,7 +5,7 @@ public class MyTests {
 
     @Test
     public void exampleTest() {
-        Assert.state(false, "xxxxhustme error test");
+        Assert.state(false, "error test from demo by hustme");
     }
 
 }
